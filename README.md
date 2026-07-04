@@ -611,7 +611,6 @@ docs/screenshots/profile.png
 <table>
   <tr>
     <td align="center"><a href="https://github.com/17rrr"><img src="https://github.com/17rrr.png?size=96" width="72"/><br/><sub><b>17rrr</b></sub><br/><sub>17rrr</sub></a></td>
-    <td align="center"><a href="https://github.com/Clove"><img src="https://github.com/Clove.png?size=96" width="72"/><br/><sub><b>Clove</b></sub><br/><sub>Clove</sub></a></td>
     <td align="center"><a href="https://github.com/2164312714-svg"><img src="https://github.com/2164312714-svg.png?size=96" width="72"/><br/><sub><b>2164312714-svg</b></sub><br/><sub>2164312714-svg</sub></a></td>
     <td align="center"><a href="https://github.com/3092054815-byte"><img src="https://github.com/3092054815-byte.png?size=96" width="72"/><br/><sub><b>着魔</b></sub><br/><sub>3092054815-byte</sub></a></td>
     <td align="center"><a href="https://github.com/doromy118"><img src="https://github.com/doromy118.png?size=96" width="72"/><br/><sub><b>doromy118</b></sub><br/><sub>doromy118</sub></a></td>
@@ -623,13 +622,12 @@ docs/screenshots/profile.png
     <td align="center"><a href="https://github.com/liuwanwan1"><img src="https://github.com/liuwanwan1.png?size=96" width="72"/><br/><sub><b>liuwanwan</b></sub><br/><sub>liuwanwan1</sub></a></td>
     <td align="center"><a href="https://github.com/summerpalace2"><img src="https://github.com/summerpalace2.png?size=96" width="72"/><br/><sub><b>GGY</b></sub><br/><sub>summerpalace2</sub></a></td>
     <td align="center"><a href="https://github.com/Vespera-Su"><img src="https://github.com/Vespera-Su.png?size=96" width="72"/><br/><sub><b>祈愿小苏</b></sub><br/><sub>Vespera-Su</sub></a></td>
-    <td align="center"><a href="https://github.com/Sylvara-Lin"><img src="https://github.com/Sylvara-Lin.png?size=96" width="72"/><br/><sub><b>Sylvara-Lin</b></sub><br/><sub>Sylvara-Lin</sub></a></td>
   </tr>
 </table>
 
 更多信息见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
 
-> GitHub 右侧自动 Contributors 列表由提交作者和 co-author 记录生成。README 中的贡献者区用于稳定展示社区成员。
+> GitHub 右侧自动 Contributors 列表由真实提交作者生成。README 中的贡献者区用于稳定展示社区成员。
 
 ---
 
