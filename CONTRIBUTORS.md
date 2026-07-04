@@ -14,5 +14,6 @@ Thanks to everyone who helped shape LianYu.
 | <img src="https://github.com/liuwanwan1.png?size=96" width="48" /> | [liuwanwan](https://github.com/liuwanwan1) · `liuwanwan1` |
 | <img src="https://github.com/summerpalace2.png?size=96" width="48" /> | [GGY](https://github.com/summerpalace2) · `summerpalace2` |
 | <img src="https://github.com/Vespera-Su.png?size=96" width="48" /> | [祈愿小苏](https://github.com/Vespera-Su) · `Vespera-Su` |
+| <img src="https://github.com/Sylvara-Lin.png?size=96" width="48" /> | [Sylvara-Lin](https://github.com/Sylvara-Lin) · `Sylvara-Lin` |
 
 > Note: GitHub's automatic Contributors page is generated from commit authors. README keeps the visible community contributor list stable.
